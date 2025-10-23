@@ -1,0 +1,1 @@
+D:\Apps\ClinicManagment\FInal CM\Medicare_V2.0.0\Medicare_V2.0.0\SourceFile\doctorapp\build\app\intermediates\cxx\Debug\3q5m3l2k\obj\arm64-v8a

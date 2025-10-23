@@ -1,0 +1,1 @@
+D:\Apps\ClinicManagment\Multi\demo_source_code\doctorapp\build\app\intermediates\cxx\RelWithDebInfo\3t1385s2\obj\arm64-v8a

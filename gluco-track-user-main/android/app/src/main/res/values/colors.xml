@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bottom half color for the splash background -->
+    <color name="splash_bottom_color">#F8A1C4</color>
+</resources>

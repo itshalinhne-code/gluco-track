@@ -1,0 +1,2 @@
+D:/Apps/ClinicManagment/Multi/demo_source_code/Medicare_User_App/android/app/.cxx/RelWithDebInfo/424s3u3a/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Apps/ClinicManagment/Multi/demo_source_code/Medicare_User_App/android/app/.cxx/RelWithDebInfo/424s3u3a/arm64-v8a/CMakeFiles/rebuild_cache.dir

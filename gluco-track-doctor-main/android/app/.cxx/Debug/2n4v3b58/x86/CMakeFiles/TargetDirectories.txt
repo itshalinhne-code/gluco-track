@@ -1,0 +1,2 @@
+D:/Apps/ClinicManagment/Multi/demo_source_code/doctorapp/android/app/.cxx/Debug/2n4v3b58/x86/CMakeFiles/edit_cache.dir
+D:/Apps/ClinicManagment/Multi/demo_source_code/doctorapp/android/app/.cxx/Debug/2n4v3b58/x86/CMakeFiles/rebuild_cache.dir

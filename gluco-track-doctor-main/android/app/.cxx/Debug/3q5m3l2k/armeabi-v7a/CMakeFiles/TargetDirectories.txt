@@ -1,0 +1,2 @@
+D:/Apps/ClinicManagment/FInal CM/Medicare_V2.0.0/Medicare_V2.0.0/SourceFile/doctorapp/android/app/.cxx/Debug/3q5m3l2k/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Apps/ClinicManagment/FInal CM/Medicare_V2.0.0/Medicare_V2.0.0/SourceFile/doctorapp/android/app/.cxx/Debug/3q5m3l2k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
